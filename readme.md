@@ -6,6 +6,6 @@ Ogxaffaire is a web application based on Laravel framework with expressive, eleg
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-Documentation for the framework can be found on the [Laravel website](http://ogxaffaire.com/categories?category=2).
+Documentation for Ogxaffaire can be found on the [Ogxaffaire website](http://ogxaffaire.com/categories?category=2).
 
 The Laravel framework and ogxaffaire is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
